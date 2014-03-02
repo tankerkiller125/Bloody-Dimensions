@@ -1,0 +1,22 @@
+#Blocks: tile.unlocalizedName.name=Localized Name
+#Metadata Blocks: tile.unlocalizedBlockName.unlocalizedItemBlockForMetadataName.name=Localized Name
+#Items: item.unlocalizedName.name=Localized Name
+#Entities: entity.unlocalizedName.name=Localized Name
+#TODO: Add Colors :)
+
+tile.bloodyDirt.name=Bloody Dirt
+
+tile.bloodyStone.bloodyStone.name=Bloody Stone
+tile.bloodyStone.bloodyCobble.name=Bloody Cobblestone
+tile.bloodyOre.bloodyOre.name=Bloody Overworld Ore
+tile.bloodyOre.bloodyOre_End.name=Bloody End Ore
+
+item.bloodyDust.name=Bloody Dust
+item.bloodyWand.name=Bloody Wand
+item.bloodyPick.name=Bloody Pick
+item.bloodySpade.name=Bloody Spade
+item.bloodyAxe.name=Bloody Axe
+item.bloodySword.name=Bloody Sword
+item.bloodyHoe.name=Bloody Hoe
+
+itemGroup.bd_tab=Bloody Dimensions
