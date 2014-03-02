@@ -5,10 +5,10 @@ This is the Source Code of the Bloody Dimensions mod for Minecraft.
 Dependencies
 ============
 To build:
-Eclipse
-Minecraft Forge 1034 or higher
-Java JDK
-Understanding of how to mod
+- Eclipse
+- Minecraft Forge 1034 or higher
+- Java JDK
+- Understanding of how to mod
 
 Copyrights and Terms of Use
 ===========================
