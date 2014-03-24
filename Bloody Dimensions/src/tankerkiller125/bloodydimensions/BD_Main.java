@@ -27,8 +27,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 /**
  * 
  * @author tankerkiller125 (Project Leader, Coder)
- * @author bl4ckscor3 (Coder, Texturer)
- * @author Tankkiller125 (Texturer)
+ * @author bl4ckscor3 (Helping with coding, Texturer)
  *
  */
 public class BD_Main

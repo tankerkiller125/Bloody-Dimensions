@@ -8,7 +8,7 @@ public class CreeperBlood extends Item {
 	public CreeperBlood()
 	{
 		super();
-		setUnlocalizedName("bloodyWand");
+		setUnlocalizedName("creeperblood");
 		maxStackSize = 1;
 		setMaxDamage(10);
 		setCreativeTab(BD_Main.bd_tab);

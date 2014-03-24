@@ -11,6 +11,6 @@ public class BD_EnumMaterials
 	public static void toolMats()
 	{
 		bloody = EnumHelper.addToolMaterial("bloody", 2, 200, 5.0F, 1.5F, 10); //Exactly between stone and iron tools
-		creeper = EnumHelper.addToolMaterial("creeper", 2, 200, 5.0F, 1.5F, 10);
+		creeper = EnumHelper.addToolMaterial("creeper", 2, 250, 5.5F, 2.0F, 15);
 	}
 }
