@@ -6,9 +6,11 @@ import net.minecraftforge.common.util.EnumHelper;
 public class BD_EnumMaterials
 {
 	public static Item.ToolMaterial bloody;
+	public static Item.ToolMaterial creeper;
 	
 	public static void toolMats()
 	{
 		bloody = EnumHelper.addToolMaterial("bloody", 2, 200, 5.0F, 1.5F, 10); //Exactly between stone and iron tools
+		creeper = EnumHelper.addToolMaterial("creeper", 2, 200, 5.0F, 1.5F, 10);
 	}
 }

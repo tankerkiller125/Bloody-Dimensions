@@ -42,5 +42,7 @@ public class BD_Registry extends BD_Items
 		GameRegistry.registerItem(bloodyAxe, "bloodyAxe");
 		GameRegistry.registerItem(bloodySword, "bloodySword");
 		GameRegistry.registerItem(bloodyHoe, "bloodyHoe");
+		GameRegistry.registerItem(creeperSword, "creeperSword");
+		GameRegistry.registerItem(creeperBlood, "creeperBlood");
 	}
 }

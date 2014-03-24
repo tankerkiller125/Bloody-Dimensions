@@ -21,7 +21,7 @@ public class BD_UpdateChecker
 	private static final String newStuffUrl = "http://mythsofasiras.cu.cc/files/public.php?service=files&t=757c8d4615713e508b50046cbc84aec9&download";
 	private static String update;
 	private static String newStuff;
-	private static String pmc = "";
+	private static String pmc = "http://planetminecraft.com/mod/wipbloody-dimensions/";
 	private static String mcf = "No topic created yet";
 	private static boolean fired = false;
 		
