@@ -19,4 +19,15 @@ item.bloodyAxe.name=Bloody Axe
 item.bloodySword.name=Bloody Sword
 item.bloodyHoe.name=Bloody Hoe
 
+item.creeperBlood.name=Creeper Blood
+item.creeperSword.name=Creeper Sword
+item.creeperPick.name=Creeper Pickaxe
+item.creeperSpade.name=Creeper Shovel
+item.creeperAxe.name=Creeper Axe
+item.creeperHoe.name=Creeper Hoe
+
+item.zombieBlood.name=Zombie Blood
+item.zombieSword.name=Zombie Sword
+item.zombiePick.name=Zombie Pickaxe
+
 itemGroup.bd_tab=Bloody Dimensions

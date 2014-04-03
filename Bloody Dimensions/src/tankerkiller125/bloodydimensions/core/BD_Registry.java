@@ -48,5 +48,12 @@ public class BD_Registry extends BD_Items
 		GameRegistry.registerItem(creeperSpade, "creeperSpade");
 		GameRegistry.registerItem(creeperAxe, "creeperAxe");
 		GameRegistry.registerItem(creeperHoe, "creeperHoe");
+		GameRegistry.registerItem(zombieSword, "zombieSword");
+		GameRegistry.registerItem(zombieSpade, "zombieSpade");
+		GameRegistry.registerItem(zombiePick, "zombiePick");
+		GameRegistry.registerItem(zombieAxe, "zombieAxe");
+		GameRegistry.registerItem(zombieHoe, "zombieHoe");
+		GameRegistry.registerItem(zombieBlood, "zombieBlood");
+		
 	}
 }

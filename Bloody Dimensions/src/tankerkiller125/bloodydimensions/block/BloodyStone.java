@@ -21,8 +21,7 @@ public class BloodyStone extends Block
 	
 	public BloodyStone()
 	{
-		super(Material.rock);
-		setBlockName("bloodyStone");
+		super(Material.rock);//it works fine for me so either start it throught eclipse or dont use linux//Take a look at untitled 1
 		setCreativeTab(BD_Main.bd_tab);
 		setStepSound(soundTypeStone);
 		setHardness(2.452F);

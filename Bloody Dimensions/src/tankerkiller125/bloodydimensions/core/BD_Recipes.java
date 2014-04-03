@@ -5,11 +5,13 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import cpw.mods.fml.common.registry.GameRegistry;
 
+@SuppressWarnings("static-access")
 public class BD_Recipes
 {
-	BD_Items i = new BD_Items();
-	BD_Blocks b = new BD_Blocks();
-	public void addRecipes()
+	private static BD_Items i = new BD_Items();
+	private static BD_Blocks b = new BD_Blocks();
+	
+	public static void addRecipes()
 	{
 		addToolRecipes(i.bloodyDust, Items.stick, i.bloodyPick, i.bloodySpade, i.bloodyAxe, i.bloodySword, i.bloodyHoe);
 		addToolRecipes(i.creeperBlood, Items.stick, i.creeperPick, i.creeperSpade, i.creeperAxe, i.creeperSword, i.creeperHoe);

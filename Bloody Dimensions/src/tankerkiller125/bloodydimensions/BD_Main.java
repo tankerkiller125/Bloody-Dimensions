@@ -6,6 +6,7 @@ import net.minecraftforge.common.config.Configuration;
 import tankerkiller125.bloodydimensions.core.BD_Blocks;
 import tankerkiller125.bloodydimensions.core.BD_Config;
 import tankerkiller125.bloodydimensions.core.BD_Items;
+import tankerkiller125.bloodydimensions.core.BD_Recipes;
 import tankerkiller125.bloodydimensions.core.BD_Registry;
 import tankerkiller125.bloodydimensions.core.proxy.BD_ServerProxy;
 import tankerkiller125.bloodydimensions.enums.BD_EnumMaterials;
@@ -73,8 +74,8 @@ public class BD_Main
 		BD_Blocks.initializeBlocks();
 		BD_Items.initializeItems();
 		BD_Items.initializeTools();
-	
 		BD_Registry.preInit();
+		BD_Recipes.addRecipes();
 	}
 	
 	@EventHandler
@@ -86,7 +87,7 @@ public class BD_Main
 	public class BD_Info
 	{
 		/*Random Strings*/
-		public static final String forgeVersion = "1034";
+		public static final String forgeVersion = "1024";
 		public static final String mcVersion = "1.7.2";
 		
 		/*Strings useful for Forge*/
